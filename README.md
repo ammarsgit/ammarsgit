@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👨‍💻 Data + Software Engineer
 
-<!--
-**ammarsgit/ammarsgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build reliable data products and production software systems — from ingestion pipelines and analytics to APIs and cloud services.
 
-Here are some ideas to get you started:
+## ⚙️ What I Work On
+- Data engineering (ETL/ELT, orchestration, warehousing)
+- Backend engineering (APIs, distributed services, automation)
+- Developer tooling and platform reliability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Core Stack
+`Python` `SQL` `Spark` `Airflow` `dbt` `Docker` `Kubernetes` `AWS`
+
+## 📊 GitHub Stats
+<!-- Commits hidden via hide=contribs -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ammarsgit&show_icons=true&theme=tokyonight&hide=contribs)
+
+## 🤝 Connect
+- Open to collaborating on data-heavy and backend-focused projects
