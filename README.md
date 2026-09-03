@@ -28,10 +28,6 @@ I build reliable data products and production software systems — from ingestio
 
 ## 📊 GitHub Stats
 <!-- Commits hidden via hide=contribs -->
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ammarsgit&show_icons=true&theme=tokyonight&hide=contribs&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarsgit&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ammarsgit&theme=tokyonight&hide_border=true" alt="GitHub streak" />
